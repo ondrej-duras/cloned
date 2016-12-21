@@ -5,6 +5,8 @@ taken from other people on internet.
 All they are usefull for my work even there
 is no much of my commitment.
 
+[all details here](https://github.com/ondrej-duras/cloned/wiki)
+
 ```
 - b64     - Base64 simple encoder/decoder
 - fping   - discovers all ICMP targets from list
